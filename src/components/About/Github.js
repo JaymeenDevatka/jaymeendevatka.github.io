@@ -9,11 +9,11 @@ function Github() {
         Days I <strong className="purple">Code</strong>
       </h1>
       <GitHubCalendar
-        username="tushar92644"
-        blockSize={15}
-        blockMargin={5}
+        username="JaymeenDevatka"
+        blockSize={10}
+        blockMargin={4}
         color="#c084f5"
-        fontSize={16}
+        fontSize={15}
       />
     </Row>
   );

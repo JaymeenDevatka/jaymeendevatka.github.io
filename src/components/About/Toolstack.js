@@ -7,6 +7,11 @@ import {
   SiMicrosoftazure,
   SiOpenai,
   SiMacos,
+  SiDocker,
+  SiKubernetes,
+  SiAnaconda,
+  SiGooglecolab,
+  SiPytorchlightning
 } from "react-icons/si";
 
 function Toolstack() {
@@ -22,13 +27,28 @@ function Toolstack() {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMicrosoftazure />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiJupyter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiAnaconda />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGooglecolab />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMicrosoftazure />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiKubernetes />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiOpenai />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPytorchlightning />
       </Col>
     </Row>
   );
