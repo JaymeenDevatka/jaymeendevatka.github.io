@@ -51,10 +51,10 @@ function Home2() {
               <b className="purple">Kubernetes</b>, and deploy ML/DL models to production.
               <br />
               <br />
-              Additionally, I am a{" "}
-              <b className="purple">ServiceNow Certified Application Developer (CAD)</b> and{" "}
+              {/* Additionally, I am a{" "} */}
+              {/* <b className="purple">ServiceNow Certified Application Developer (CAD)</b> and{" "}
               <b className="purple">Certified System Administrator (CSA)</b>,
-              which strengthens my ability to deliver robust enterprise-grade integrations.
+              which strengthens my ability to deliver robust enterprise-grade integrations. */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -72,7 +72,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/tushar92644"
+                  href="https://github.com/JaymeenDevatka"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -92,7 +92,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/tushar-agarwal-a18b841b9/"
+                  href="https://www.linkedin.com/in/jaymeen-devatka"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
